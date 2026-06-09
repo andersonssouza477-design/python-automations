@@ -1,0 +1,1 @@
+"Este repositório contém scripts de automação de escritório desenvolvidos em Python. O objetivo é demonstrar a manipulação de arquivos CSV para tratamento de dados financeiros e modificação de arquivos de configuração JSON, simulando cenários reais de infraestrutura de TI."
